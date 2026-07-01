@@ -61,4 +61,4 @@ The controller operates over a 5-node core topology consisting of:
 ### Installation & Execution
 1. Clone this repository to your local machine:
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/5G-Optical-SDN-Controller.git](https://github.com/YOUR_USERNAME/5G-Optical-SDN-Controller.git)
+   git clone [https://github.com/paavansankeerth05-beep/5G-Optical-SDN-Controller.git](https://github.com/paavansankeerth05-beep/5G-Optical-SDN-Controller.git)
